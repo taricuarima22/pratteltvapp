@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "url": "https://pratteltv.lat/downapp/pratteltvb.apk",
-  "changelog": "correcciones menores."
+  "versionCode": 7,
+  "versionName": "1.6",
+  "url": "https://pratteltv.lat/downapp/pratteltvc.apk",
+  "changelog": "correcciones menores y reproduccion en segundo plano."
 }
